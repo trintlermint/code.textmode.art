@@ -19,7 +19,7 @@ Explore interactive examples showcasing textmode.js capabilities - from generati
 <!--@include: ./examples/showcase/plasma-field.md-->
 ---
 <!--@include: ./examples/showcase/entity-wave-prop.md-->
-
+---
 ## Getting started
 
 Ready to add textmode effects to your project? Check out our [Installation](/docs/installation) and [Fundamentals](/docs/fundamentals) to get started.
