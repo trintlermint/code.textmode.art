@@ -48,5 +48,10 @@
     "title": "Hydra Synth Integration",
     "author": "humanbydefinition",
     "featured": false
+  },
+  "entity-wave-prop": {
+    "title": "Entity Based Wave Propagation",
+    "author": "trintlermint",
+    "featured": true
   }
 }
